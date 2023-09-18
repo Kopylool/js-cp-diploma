@@ -10,4 +10,4 @@ CSS
 JavaScript
 
 ## GitHub Pages
-Проект доступен на GitHub Pages по ссылке:
+Проект доступен на GitHub Pages по ссылке: https://kopylool.github.io/js-cp-diploma/
